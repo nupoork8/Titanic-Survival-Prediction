@@ -1,6 +1,5 @@
-# Titanic-Survival-Prediction
 
-# 🚢 Titanic Survival Analysis & Prediction
+# 🚢 Titanic Survival Prediction
 
 End-to-end Data Science project on the Titanic dataset — from raw data exploration to a Machine Learning model with **79% accuracy.**
 
@@ -79,7 +78,7 @@ The model confirmed what EDA found — gender and class were the two most critic
 ## 📁 Project Structure
 
 ```
-titanic-analysis/
+titanic-survival-prediction/
 │
 ├── python.ipynb          # Main notebook with full analysis
 ├── images/               # Visualization screenshots
